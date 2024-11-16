@@ -43,7 +43,7 @@ A user-friendly Streamlit web application that seamlessly converts GhanaPostGPS 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ghanapostgps-converter.git
+git clone https://github.com/kreativwiz1/ghanapostgps-converter.git
 cd ghanapostgps-converter
 ```
 
